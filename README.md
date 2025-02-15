@@ -2,7 +2,7 @@
 This small go program will output the amounts of nutrients needed to build a Spirulina growth medium for a specified volume of water
 
 ## Usage
-At the moment you need to install [golang]() as a pre-requisite
+At the moment you need to install [golang](https://go.dev/doc/install) as a pre-requisite
 
 ```bash
 go run . -o <volume, in liters>
