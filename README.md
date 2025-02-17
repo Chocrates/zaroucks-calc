@@ -1,4 +1,4 @@
-# Zaroucks Calculator
+# Zarouks Calculator
 This small go program will output the amounts of nutrients needed to build a Spirulina growth medium for a specified volume of water
 
 ## Usage
